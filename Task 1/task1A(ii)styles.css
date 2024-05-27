@@ -1,0 +1,28 @@
+/* styles.css */
+/* Customize table styles */
+
+*{
+margin-top:-10px;
+text-content:center;
+padding:20px;
+width:50%;
+align-items:center;
+justify-items:center;
+}
+
+
+
+
+table {
+    font-family: Arial, sans-serif;
+	font-size:2vw;
+    /* Add other styles as needed */
+align-items:center;
+justify-content:center;
+}
+.table-hover tbody tr:hover {
+    background-color:red;
+	color:White;
+	
+    /* Add hover effect styles */
+}
